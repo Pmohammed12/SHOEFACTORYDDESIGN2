@@ -1,0 +1,3 @@
+interface Shoes {
+    void details();
+}
